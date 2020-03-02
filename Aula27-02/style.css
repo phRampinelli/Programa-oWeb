@@ -1,0 +1,117 @@
+body {
+    background-color: #e9ebee;
+}
+
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: cursive;
+}
+/* .painel li {
+    display: inline-block;
+    vertical-align: top;
+    width: 140px;
+    margin: 2px;
+    padding-bottom: 10px;
+} */
+p {
+    font-family: cursive;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    font-size: 18px;
+}
+
+tr:nth-child(even) {
+    background-color: red;
+}
+
+#bola {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    /* margin: 1px 2px 3px 4px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-left: 10px;
+    margin-bottom: 3px; */
+
+    padding: 1px 2px 3px 4px;
+    padding-top: 2px;
+    padding-right: 3px;
+    padding-left: 4px;
+    padding-bottom: 10px;
+    
+    display: inline-block;
+    vertical-align: top;
+    width: 140px;
+    margin: 2px;
+    padding-bottom: 10px;
+
+}
+#bola2 {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    /* margin: 1px 2px 3px 4px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-left: 10px;
+    margin-bottom: 3px; */
+
+    padding: 1px 2px 3px 4px;
+    padding-top: 2px;
+    padding-right: 3px;
+    padding-left: 4px;
+    padding-bottom: 10px;
+    
+    display: inline-block;
+    vertical-align: top;
+    width: 140px;
+    margin: 2px;
+    padding-bottom: 10px;
+
+}
+	
+h2 {
+    font-family: sans-serif;
+}
+p {
+    font-family: monospace;
+    text-transform: uppercase;
+    line-height: 15px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    text-indent: 30px;
+}
+body {
+    font-family: "Arial", "Helvetica", sans-serif;
+    /* border-color: black; */
+    /* border-style: solid; */
+}
+#imagem {
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+  
+input[id^="bola"]{
+    border: 5px solid black
+}
+
+
+
