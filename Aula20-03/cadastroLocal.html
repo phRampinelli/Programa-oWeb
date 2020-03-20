@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1 class="titulo">Beauty World</h1>
+    </header>
+
+    <section>
+        <div class="content">
+            <h1>Cadastro de local</h1>
+            <div class="cadastro">
+
+                <p>
+                    <label class="nome" for="nome_cad">Residencial</label>
+                    <input required="required" type="checkbox" />
+
+                    <label class="nome" for="nome_cad">Comercial</label>
+                    <input required="required" type="checkbox" />
+                </p>
+                <p>
+                    <label class="nome" for="numero_cad">CEP</label>
+                    </br>
+                    <input class="cep" required="required" type="text" placeholder="00000-000" />
+                </p>
+                <p>
+                    <label class="nome" for="nome_cad">Logradouro</label>
+                    <input required="required" type="text" placeholder="Rua aaaaaaaa" />
+                </p>
+                <p>
+                    <label class="nome" for="numero_cad">Numero</label>
+                    <input required="required" type="text" placeholder="000000" />
+                </p>
+
+                <p>
+                    <label class="nome" for="bairro_cad">Bairro</label>
+                    <input required="required" type="text" placeholder="Aaaaaaaaaaa" />
+                </p>
+                <p>
+                    <label class="nome" for="complemento_cad">Complemento</label>
+                    <input required="required" type="text" placeholder="Apartamento" />
+                </p>
+
+                <p>
+                    <input type="submit" onclick="clicou()" value="Cadastrar" />
+                </p>
+
+            </div>
+        </div>
+    </section>
+
+
+    <script>
+        function clicou() {
+            alert("Cadastro salvo com sucesso");
+        }
+    </script>
+
+</body>
+
+</html>
