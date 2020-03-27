@@ -1,4 +1,235 @@
 header{
-    background-color: blue;
-    height: 100px;
+  border: solid 1px black;
+  height: 100px;
+  /* background-color: red; */
 }
+
+/* body{
+    overflow: auto;
+    height: auto;
+} */
+
+.pesquisa{
+    float: right;
+    margin-top: 30px;
+}
+
+#busca{
+    border: solid 1px;
+    border-radius: 10px;
+    margin-right: 10px;  
+    padding: 5px;
+}
+
+.perfil img{
+    max-width: 25px;
+    max-height: 25px;
+    width: auto;
+    height: auto;
+    margin-top: 30px;
+}
+
+.perfil{
+    float: right;
+    
+}
+
+#menuSuperior{
+    margin-top: 5px;
+    border: solid 1px black;
+    /* background-color: grey; */
+}
+
+#menuSuperior {
+    background-color: #C0C0C0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 13pt;
+    color:black;
+    padding-left: 450px;
+}
+
+td{
+    padding-right: 38px;
+}
+
+#esquerdo{
+    border: solid 1px black;
+    width: 150px;
+    height: 500px;
+}
+
+.imagem2 img{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:30%;
+    left:25%;
+}
+.imagem2 h3{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:30%;
+    left:550px;
+}
+.imagem2 p{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:34%;
+    left:550px;
+}
+
+.imagem3 img{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:50%;
+    left:25%;
+
+}
+.imagem3 h3{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:50%;
+    left:550px;
+}
+.imagem3 p{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:57%;
+    left:550px;
+}
+
+
+.imagem4 img{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:70%;
+    left:25%;
+}
+.imagem4 h3{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:70%;
+    left:550px;
+}
+.imagem4 p{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:77%;
+    left:550px;
+}
+
+
+.imagem5 img{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:30%;
+    left:55%;
+}
+.imagem5 h3{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:30%;
+    left:66%;
+}
+.imagem5 p{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:37%;
+    left:66%;
+}
+
+
+.imagem6 img{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:50%;
+    left:55%;
+}
+.imagem6 h3{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:50%;
+    left:66%;
+}
+.imagem6 p{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:57%;
+    left:66%;
+}
+
+.imagem7 img{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:70%;
+    left:55%;
+}
+.imagem7 h3{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:70%;
+    left:66%;
+}
+.imagem7 p{
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top:77%;
+    left:66%;
+}
+
+
+
